@@ -1,7 +1,5 @@
 <h1 align="center">Project Kiosk Dashboard Admin Web</h1>
-<p> Helmi Sulaeman</p>
-<p> Syariif Abdurrahman Bathik</p>
-<p> Enjoy The Project </p>
+<p> Fawaz
 
 # DEV BACKEND
 https://api-ekiosk.bisaai.id:8081/ekiosk_dev/
